@@ -7,3 +7,6 @@ default:
 
 generate:
   {{ ts }} generate
+
+test:
+  {{ ts }} test
